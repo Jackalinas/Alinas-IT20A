@@ -8,5 +8,8 @@
  * @author admin
  */
 public class preliem {
+    public static void main (String args[] ) {
+System.out.print("IT ROCKS!");
+    }
     
 }
